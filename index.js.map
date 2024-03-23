@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":"AAAA,OAAO,OAAP,GAAiB,QAAQ,SAAR,CAAjB","file":"index.js","sourcesContent":["module.exports = require('./build');"]}
